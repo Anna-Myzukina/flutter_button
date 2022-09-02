@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mediclinic_app/services/button_widget_services.dart' as btn;
-import 'package:mediclinic_app/utils/consts.dart' as consts;
+import 'package:../button_widget_services.dart' as btn;
+import 'package:../consts.dart' as consts;
 
 class Button extends StatefulWidget {
   /// Button type
